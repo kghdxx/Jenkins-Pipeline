@@ -1,4 +1,4 @@
-// Jenkinsfile: theoretical-pipeline
+// Jenkinsfile: github-pipeline
 
 pipeline {
     agent any
