@@ -1,4 +1,4 @@
-// Jenkinsfile: github-pipeline
+// Jenkinsfile: github-pipeline.
 
 pipeline {
     agent any
